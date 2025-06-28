@@ -47,13 +47,13 @@ g++ -std=c++17 -o vault_system vault_system.cpp -lssl -lcrypto
 ```
 
 ## 👥 Contributors
-```
+
 Ishmeet Singh Arora – Core development, C++ backend, anomaly detection pipeline, secure communication features
-```
+
 ## 🔭 Future Scope
-```
+
 - 🖼️ Full Qt-based GUI integration for enhanced usability and a modern interface
 - ☁️ Cloud sync for secure file backup and distributed storage
 - 🧠 Machine Learning model for advanced intrusion detection (e.g., clustering login patterns) to improve predictive capabilities
 - 🧾 Encrypted logs and blockchain-based file integrity validation for immutable audit trails and enhanced data trust
-```
+  
